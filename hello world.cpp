@@ -1,6 +1,6 @@
-#include<iostream>
+#include<iostream> //this is input and output stream. This tells what is cout and cin etc.,
 using namespace std;
-main()
+main() //function called main
 {
-	cout<<"hello world";
+	cout<<"hello world!"; //cout is used to print the output
 }
